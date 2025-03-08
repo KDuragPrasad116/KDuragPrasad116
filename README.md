@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KDuragPrasad116
+- 👋 Hi, I’m @KDuragPrasad
 - 👀 I’m interested in creative and innovative projects
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on interesting and creative project 
