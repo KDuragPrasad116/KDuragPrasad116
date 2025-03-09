@@ -1,4 +1,4 @@
-- 👋 Hi, I’m K Durag Prasad
+- 👋 Hi, I’m K Durga Prasad
 - 👀 I’m interested in creative and innovative projects
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on interesting and creative project 
